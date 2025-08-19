@@ -5,16 +5,16 @@ This project presents an analysis of sleep patterns among university students, e
 
 ## Objectives
 
-Identify the correlation between sleep duration and perceived stress.
+* Identify the correlation between sleep duration and perceived stress.
 
 
 
-Examine the prevalence of sleep problems and the use of sleep-enhancing technologies.
+* Examine the prevalence of sleep problems and the use of sleep-enhancing technologies.
 
 
 
-Check whether the use of sleep-enhancing technologies reduces the incidence of sleep problems.
+* Check whether the use of sleep-enhancing technologies reduces the incidence of sleep problems.
 
 
 
-Examine which fields of study and years of study students are most stressed about and whether sleep duration has an impact on this.
+* Examine which fields of study and years of study students are most stressed about and whether sleep duration has an impact on this.
