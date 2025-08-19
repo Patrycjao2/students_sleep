@@ -8,13 +8,16 @@ This project presents an analysis of sleep patterns among university students, e
 * Identify the correlation between sleep duration and perceived stress.
 
 
-
 * Examine the prevalence of sleep problems and the use of sleep-enhancing technologies.
-
 
 
 * Check whether the use of sleep-enhancing technologies reduces the incidence of sleep problems.
 
 
-
 * Examine which fields of study and years of study students are most stressed about and whether sleep duration has an impact on this.
+
+
+## Dataset
+
+The dataset used in this analysis is publicly available on Kaggle:
+[Simulated Student Sleep Dataset](https://www.kaggle.com/datasets/valencaycodes/simulated-student-sleep-dataset)
