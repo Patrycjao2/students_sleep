@@ -1,4 +1,4 @@
-# Analysis of students' sleep
+# 😴 Analysis of students' sleep
 
 This project presents an analysis of sleep patterns among university students, examining the impact of factors such as sleep duration, stress levels, and technology use. The analysis is based on a dataset of 100 students from three fields of study (arts, sciences, business) over three academic years.
 
@@ -21,3 +21,4 @@ This project presents an analysis of sleep patterns among university students, e
 
 The dataset used in this analysis is publicly available on Kaggle: 
 [Simulated Student Sleep Dataset](https://www.kaggle.com/datasets/valencaycodes/simulated-student-sleep-dataset)
+
