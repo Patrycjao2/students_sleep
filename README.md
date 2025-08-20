@@ -1,6 +1,6 @@
 # 😴 Analysis of students' sleep
 
-This project presents an analysis of sleep patterns among university students, examining the impact of factors such as sleep duration, stress levels, and technology use. The analysis is based on a dataset of 100 students from three fields of study (arts, sciences, business) over three academic years.
+This project presents an analysis of sleep patterns among university students, examining the impact of factors such as sleep duration, stress levels, and technology use. The analysis is based on a dataset of 100 students from three fields of study (arts, sciences, business) over three academic years. You can see the finished dashboard [here](files/sleep_student_dasboard).
 
 
 ## Objectives
@@ -36,10 +36,18 @@ The dataset used in this analysis is publicly available on Kaggle:
 
 ## Dashboard
 
-<img src="images/dashboard.png" alt="Alt Text" width="400" height="200">
+This interactive dashboard analyzes the sleep health and stress levels of university students across different majors and academic years. It provides a clear, visual summary of key patterns and trends.
 
-![Alt text](images/long_sleep_gif.gif)
+<img src="images/dashboard.png" alt="Alt Text" width="750" height="600">
 
-![Alt text](images/sress_gif.gif)
+### Filter by Major and academic year
+
+Use this filter to check the average length of sleep for students in a selected year and field of study.
+
+<img src="images/long_sleep_gif.gif" alt="Alt Text" width="600">
+
+Use the Major and Year filters to select a student group. The radar chart will instantly update to show their average stress levels compared to other groups.
+
+<img src="images/stress_gif.gif" alt="Alt Text" width="750">
 
 
