@@ -3,7 +3,7 @@
 This project presents an analysis of sleep patterns among university students, examining the impact of factors such as sleep duration, stress levels, and technology use. The analysis is based on a dataset of 100 students from three fields of study (arts, sciences, business) over three academic years. 
 
 
-## Objectives
+## 🎯 Objectives
 
 * Identify the correlation between sleep duration and perceived stress.
 
@@ -14,12 +14,12 @@ This project presents an analysis of sleep patterns among university students, e
 * Examine which fields of study and years of study students are most stressed about and whether sleep duration has an impact on this.
 
 
-## Dataset
+## 📂 Dataset
 
 The dataset used in this analysis is publicly available on Kaggle: 
 [Simulated Student Sleep Dataset](https://www.kaggle.com/datasets/valencaycodes/simulated-student-sleep-dataset)
 
-## Technical Implementation
+## 🔨 Technical Implementation
 
 * Power Query for data cleaning and transformation
 
@@ -34,7 +34,7 @@ The dataset used in this analysis is publicly available on Kaggle:
 * Dashboard consolidation for executive reporting
 
 
-## Dashboard
+## 📊 Dashboard
 
 This interactive dashboard analyzes the sleep health and stress levels of university students across different majors and academic years. It provides a clear, visual summary of key patterns and trends. You can see the finished dashboard [here](files/sleep_student_dasboard.xlsx).
 
@@ -50,7 +50,7 @@ Use the Major and Year filters to select a student group. The radar chart will i
 
 <img src="images/stress_gif.gif" alt="Alt Text" width="750">
 
-## Key Insights
+## 💡 Key Insights
 
 * The length of sleep does not affect stress levels, but it is clear that stress is highest in the third year.
 
