@@ -36,7 +36,7 @@ The dataset used in this analysis is publicly available on Kaggle:
 
 ## Dashboard
 
-<img src="images/dasboard.png" alt="Wykres snu" width="400">
+<img src="images/dasboard.png" alt="Alt Text" width="400">
 
 ![Alt text](images/long_sleep_gif.gif)
 
