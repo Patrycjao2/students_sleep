@@ -1,6 +1,6 @@
 # 😴 Analysis of students' sleep
 
-This project presents an analysis of sleep patterns among university students, examining the impact of factors such as sleep duration, stress levels, and technology use. The analysis is based on a dataset of 100 students from three fields of study (arts, sciences, business) over three academic years. You can see the finished dashboard [here](files/sleep_student_dasboard).
+This project presents an analysis of sleep patterns among university students, examining the impact of factors such as sleep duration, stress levels, and technology use. The analysis is based on a dataset of 100 students from three fields of study (arts, sciences, business) over three academic years. 
 
 
 ## Objectives
@@ -36,7 +36,7 @@ The dataset used in this analysis is publicly available on Kaggle:
 
 ## Dashboard
 
-This interactive dashboard analyzes the sleep health and stress levels of university students across different majors and academic years. It provides a clear, visual summary of key patterns and trends.
+This interactive dashboard analyzes the sleep health and stress levels of university students across different majors and academic years. It provides a clear, visual summary of key patterns and trends. You can see the finished dashboard [here](files/sleep_student_dasboard.xlsx).
 
 <img src="images/dashboard.png" alt="Alt Text" width="750" height="600">
 
@@ -50,4 +50,10 @@ Use the Major and Year filters to select a student group. The radar chart will i
 
 <img src="images/stress_gif.gif" alt="Alt Text" width="750">
 
+## Key Insights
 
+* The length of sleep does not affect stress levels, but it is clear that stress is highest in the third year.
+
+* The use of assistive technologies does not affect sleep problems.
+
+* Students of commerce are the least likely to use sleep-enhancing technologies.
