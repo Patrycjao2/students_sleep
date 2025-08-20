@@ -36,8 +36,9 @@ The dataset used in this analysis is publicly available on Kaggle:
 
 ## Dashboard
 
-(images/dashboard.png)
+![Alt text](images/dashboard.png)
 
+![Alt text](images/long_sleep_gif.gif)
 
 
 
